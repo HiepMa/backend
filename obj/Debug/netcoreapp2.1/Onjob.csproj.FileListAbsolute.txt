@@ -96,3 +96,17 @@ D:\work\web\be\On job\backend\On job\obj\Debug\netcoreapp2.1\Onjob.AssemblyInfo.
 D:\work\web\be\On job\backend\On job\obj\Debug\netcoreapp2.1\Onjob.RazorTargetAssemblyInfo.cache
 D:\work\web\be\On job\backend\On job\obj\Debug\netcoreapp2.1\Onjob.dll
 D:\work\web\be\On job\backend\On job\obj\Debug\netcoreapp2.1\Onjob.pdb
+D:\work\web\be\backend\bin\Debug\netcoreapp2.1\Onjob.deps.json
+D:\work\web\be\backend\bin\Debug\netcoreapp2.1\Onjob.runtimeconfig.json
+D:\work\web\be\backend\bin\Debug\netcoreapp2.1\Onjob.runtimeconfig.dev.json
+D:\work\web\be\backend\bin\Debug\netcoreapp2.1\Onjob.dll
+D:\work\web\be\backend\bin\Debug\netcoreapp2.1\Onjob.pdb
+D:\work\web\be\backend\obj\Debug\netcoreapp2.1\Onjob.csprojAssemblyReference.cache
+D:\work\web\be\backend\obj\Debug\netcoreapp2.1\Onjob.csproj.CoreCompileInputs.cache
+D:\work\web\be\backend\obj\Debug\netcoreapp2.1\Onjob.RazorAssemblyInfo.cache
+D:\work\web\be\backend\obj\Debug\netcoreapp2.1\Onjob.RazorAssemblyInfo.cs
+D:\work\web\be\backend\obj\Debug\netcoreapp2.1\Onjob.AssemblyInfoInputs.cache
+D:\work\web\be\backend\obj\Debug\netcoreapp2.1\Onjob.AssemblyInfo.cs
+D:\work\web\be\backend\obj\Debug\netcoreapp2.1\Onjob.RazorTargetAssemblyInfo.cache
+D:\work\web\be\backend\obj\Debug\netcoreapp2.1\Onjob.dll
+D:\work\web\be\backend\obj\Debug\netcoreapp2.1\Onjob.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\work\\web\\be\\On job\\backend\\On job\\Onjob.csproj": {}
+    "D:\\work\\web\\be\\backend\\Onjob.csproj": {}
   },
   "projects": {
-    "D:\\work\\web\\be\\On job\\backend\\On job\\Onjob.csproj": {
+    "D:\\work\\web\\be\\backend\\Onjob.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work\\web\\be\\On job\\backend\\On job\\Onjob.csproj",
+        "projectUniqueName": "D:\\work\\web\\be\\backend\\Onjob.csproj",
         "projectName": "Onjob",
-        "projectPath": "D:\\work\\web\\be\\On job\\backend\\On job\\Onjob.csproj",
+        "projectPath": "D:\\work\\web\\be\\backend\\Onjob.csproj",
         "packagesPath": "C:\\Users\\nkhiep\\.nuget\\packages\\",
-        "outputPath": "D:\\work\\web\\be\\On job\\backend\\On job\\obj\\",
+        "outputPath": "D:\\work\\web\\be\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
