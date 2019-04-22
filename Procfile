@@ -1,0 +1,1 @@
+web : dotnet run --project .\On job\Onjob.csproj
